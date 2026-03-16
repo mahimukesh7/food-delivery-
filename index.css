@@ -1,0 +1,182 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+.nav-items>ul{
+    display:flex;
+    list-style-type: none;
+}
+.nav-items>ul>li{
+    padding: 10px;
+    margin:10px;
+}
+.res-card{
+    width: 150px;
+    padding: 5px;
+    margin: 5px;
+    background-color:rgb(224, 216, 216) ;
+    padding-left: 20px;
+    
+    
+   
+    height: 300px;
+}
+.res-card:hover{
+    cursor: pointer;
+     border: 1px solid black;
+    
+  
+}
+.res-logo{
+    width: 140px;
+    height: 100px;
+    padding: 5px;
+    
+    margin-right: 5px;
+
+}
+.meghna{
+    padding: 5px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Filter{
+    border: 1px solid black;
+    margin: 5px;
+    margin-right: 90%;
+    padding: 5px;
+}
+.Filter:hover{
+    cursor: pointer;
+    box-shadow: 2px  ;
+    background-color: aqua;
+
+}
+.res-logo1{
+    width: 140px;
+    height: 100px;
+    padding: 5px;
+    
+    margin-right: 5px;
+
+
+}
+.shimmer{
+    display: flex;
+    flex-wrap: wrap;
+}
+.fakeCard{
+    margin: 20px ;
+    padding: 20px;
+    width: 150px;
+    height: 300px; 
+    
+}
+.Promoted{
+    margin: 2px;
+    padding: 2px;
+    border: 1px;
+    border-radius: 1px ;
+    border-color: black;
+    
+}
+.CardLink{
+    text-decoration: none;
+    color:inherit;
+}
+.Rescat{
+    
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding-left: 16px;
+    background-color: rgb(216, 207, 207) ;
+    box-shadow: 3px  3px 0 0 rgb(189, 184, 184);
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+   
+}
+.Rescat1{
+   text-align: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    display: flex;
+    padding-left: 16px;
+    background-color: rgb(216, 207, 207) ;
+    box-shadow: 3px  3px 0 0 rgb(189, 184, 184);
+    width: 1000px;
+    margin-bottom: 10px;
+   
+
+}
+.Rescat2{
+    text-align: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    padding-left: 16px;
+    background-color: rgb(216, 207, 207) ;
+    box-shadow: 3px  3px 0 0 rgb(189, 184, 184);
+    width: 1000px;
+    margin-bottom: 10px;
+}
+.Itemlist12{
+    padding:2px;
+    margin-top: 50px; 
+    text-align: left;
+    
+    align-content: end;
+}
+.Itemlist1{
+    
+    
+   text-align:left;
+   padding-bottom: 2px;
+   margin: 2px  ;
+   border-bottom: 2px solid grey
+   
+}
+.Itemlist2{
+    font-weight: bold;
+    padding: 2px;
+    margin: 2px;
+}
+.biryani{
+    width: 10px;;
+    height: 100px;
+    display: flex;
+    justify-content:left;
+    margin: auto;
+}
+.recommended{
+    cursor: pointer;
+}
+.inputbox{
+    border: black;
+    border:solid black;
+    
+}
+.divinput{
+    display: flex;
+    margin-top: 20px;
+}
+.additem{
+    margin: 10px;
+    
+    border: 1px;
+    border-color: black;
+    padding: 10px;
+
+}
